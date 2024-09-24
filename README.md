@@ -3,7 +3,8 @@
 This project showcases how to deploy lambdas in a VPC and the concept of VPC endpoints.This is an extension of AWS cloud project two. I am using 2 availability zones. For redundancy, I have created 1 private subnet in each availability zone. The lambda will be in the private subnet. The lambda will be accessing the dynamodb table via a vpc gateway endpoint. A private  REST API Gateway is also created to retrieve data from dynamodb and can only be accessed within the vpc via a vpc interface endpoint.
 
 The architecture diagram is shown below:
-![parking_lots drawio](https://github.com/user-attachments/assets/965e7ac8-d271-401d-b556-024c696aa4cc)
+
+![measurement_points drawio](https://github.com/user-attachments/assets/e64cab7b-aab9-4f28-af85-e8d46edffcd7)
 
 
 
