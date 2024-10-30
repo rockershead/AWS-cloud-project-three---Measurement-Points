@@ -4,7 +4,8 @@ This project showcases how to deploy lambdas in a VPC and the concept of VPC end
 
 The architecture diagram is shown below:
 
-![measurement_points drawio](https://github.com/user-attachments/assets/e64cab7b-aab9-4f28-af85-e8d46edffcd7)
+![measurement_points drawio (1)](https://github.com/user-attachments/assets/51ff7789-f1b7-45f2-867f-551a2e39e011)
+
 
 
 
